@@ -1,0 +1,25 @@
+{
+  "name": "api-rest---express-and-mongodb",
+  "version": "0.0.1",
+  "description": "API REST MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroquiroga/API-Rest-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "Leandro Quiroga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandroquiroga/API-Rest-MongoDB/issues"
+  },
+  "homepage": "https://github.com/leandroquiroga/API-Rest-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  }
+}
