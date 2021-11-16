@@ -19,6 +19,7 @@
   "homepage": "https://github.com/leandroquiroga/API-Rest-MongoDB#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "joi": "^17.4.2",
     "mongoose": "^6.0.12",
     "morgan": "^1.10.0"
   }
