@@ -13,6 +13,10 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    year: {
+        type: Number,
+        required: true
+    },
     img: {
         type: String,
         required: false
